@@ -3,7 +3,7 @@
 ## Quiz on - How well do you know me?
 
 Hosted on: Repl.it \
-URL: https://replit.com/@MayureshMitkari/CLIQuizMarkOne#index.js
+URL: https://replit.com/@MayureshMitkari/CLIQuizMarkOne
 
 ### TechStack:
 NodeJS, JavaScript
